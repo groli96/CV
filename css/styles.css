@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #ADC2A9;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #ADC2A9;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #99A799;
+}
+
+a {
+    color: #99A799;
+}
+
+.top-container {
+    background-color: #FEF5ED;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    padding-top: 50px;
+}
+
+.bottom-container {
+    background-color: #ADC2A9;
+    color: #EAF6F6;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 30%;
+    top: 10%;
+}
+
+.profile-img {
+    width: 10%;
+    height: 10%;
+}
+
+.coding-img {
+    width: 10%;
+    height: 10%;
+    float: left;
+    margin-right: 30px;
+}
+
+.automation-img {
+    width: 10%;
+    height: 10%;
+    float: left;
+    margin-right: 30px;
+}
+
+.camera-img {
+    width: 10%;
+    height: 10%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 0 auto;
+    line-height: 1;
+    text-align: left;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #ADC2A9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #99A799;
+  text-decoration: none;
+}
+
+.contact-me {
+    margin-bottom: 50px;
+}
+
+.footer-link {
+    text-decoration: none;
+    margin-right: 50px;
+    margin-left: 50px;
+    color: #99A799;
+    font-size: 1.5em;
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+.talk-paragraph {
+    margin-bottom: 50px;
+}
+
+.copyright-paragraph {
+    font-size: 0.75em;
+    margin-top: 50px;
+}
+
+hr {
+    border: 6px dotted;
+    border-style: dotted none none;
+    width: 5%;
+    border-color: #99A799;
+    margin: 75px auto 75px auto;
+}
